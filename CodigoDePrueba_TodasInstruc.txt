@@ -1,0 +1,27 @@
+{
+	int a; int b; int z;
+	float x; float y; float c;
+	char d;
+	bool bandera;
+	int [10] arreglo;
+	
+	a = 1;
+	b = 2.0;
+	z = -5;
+	arreglo[1]=10;
+	bandera = true;
+	
+	while( bandera ) {
+		a = a + 1;
+		b = b - 1;
+		if (y >= x && x == 1.0) break;
+		
+	}
+	do {
+		x = 10.0 / 3.5;
+		y = a * a;
+		if (y != x || x > 1.0) { a = 2; } else break;
+
+	} while( !bandera );
+}
+\n
